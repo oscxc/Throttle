@@ -1,2 +1,1 @@
-# Throttle
-【JavaScript】函数节流
+<a href="https://oscxc.github.io/Throttle">查看演示Demo</a>
